@@ -1,3 +1,3 @@
 # Acid Theme
 
-Theme I coded for my blog, acidtest.me
+Theme I coded for my blog, https://acidtest.me
